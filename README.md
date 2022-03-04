@@ -4,7 +4,7 @@
 
 - 🌐 博客：[Nice's Blog](http://xiaojiju.com/)
 - 🏡 掘金：[用户名还没想好](https://juejin.cn/user/3790771823587998)
-- 💬 微信：areyouggormm
+- 💬 微信：xiaojiju_com
 - 📫 邮箱：xinzon32177@163.com
 
 ## 年度统计
